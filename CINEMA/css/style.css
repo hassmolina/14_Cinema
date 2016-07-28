@@ -1,0 +1,128 @@
+/*GENERAL*/
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h5, h2, h4, p, li{
+    color:#d0ccc9;
+}
+h4{
+  font-size: 20px;
+}
+.textblack{
+  color: black;
+}
+.icono{
+  float: left;
+  padding:3px;
+  height: 20px;
+}
+/*NAVIGATION*/
+.moviethe{
+  margin-top: 30px;
+}
+/*BOTON BUSCADOR*/
+#search-text-input{
+  position: absolute;
+  right: 15%;
+  top:1%;
+    border:thin solid #e5e5e5;
+    height:35px;
+    margin:.8em 0 0 .5em;
+    padding:.4em 0 .4em .6em;
+    width:183px;
+}
+#button-holder{
+    cursor:pointer;
+    height:30px;
+    margin:11px 0 0 0;
+    width:30px;
+    position: absolute;
+    right: 15%;
+    top:1.7%;
+}
+#button-holder img{
+    width:20px;
+}
+/*HEADER*/
+.BAN{
+  background-image: url("../img/banner.jpg");
+  background-position: center;
+  padding-bottom: 200px;
+  background-size: 100% 100%;
+}
+.iconobig{
+  position: absolute;
+  width: 70px;
+  margin-left: 25%;
+  margin-top:15%;
+}
+.centrarallage{
+  position: relative;
+  right: 40px;
+  top:15px;
+}
+h2{
+  margin: 10px;
+  font-size: 40px;
+  text-align: left;
+}
+.hrheader{
+  width: 270px;
+}
+li{
+  list-style: none;
+}
+.parrafoheader{
+  text-align: justify;
+  font-size: 10px;
+  fon
+}
+.boton1, .boton2, .boton3, .botonbook{
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+}
+.boton1{
+  border:3px solid #19ac07;
+  color:#19ac07;
+}
+.boton2{
+  background-color: #cfb50b;
+}
+.boton3, .botonbook{
+  background-color: #936306;
+}
+.imgsecc3{
+  width: 150px;
+  margin-top: 10px;
+}
+.yellow{
+  background-color: #dabd26;
+  width: 100%;
+  left: 14px;
+  position: relative;
+}
+/*VIDEO*/
+.video{
+  width: 100%;
+  height: 300px;
+}
+/**/
+
+.imgsec5{
+  width: 200px;
+  height: 300px;
+  margin: 50px;
+}
+/*FOOTER*/
+.foot{
+  background-color: #75786e;
+}
+.browntext{
+  color: #936306;
+  text-decoration: none;
+}
+.primerimg{
+  height: 200px;
+}
